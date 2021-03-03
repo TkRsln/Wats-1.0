@@ -7,4 +7,4 @@
 ⊗ spesifik olarak "Word" dosyası projenin içinde bulunmadığından ve android için tasarlandığı için ilk açılışta takılma hatta ve hatta projenin çalıştırıldığında donması
 mümkün.
 
-Sonuç:
+Sonuç: 
