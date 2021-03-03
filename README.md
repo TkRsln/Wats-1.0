@@ -4,7 +4,4 @@
 
 ●Kelimeleri doğrudan Bahçeşehir Üniversitesi'nin haftalık olarak yayınladığı word dosyasından otomatik olarak çeker ve rastghele soruları hazırlar.
 
-⊗ spesifik olarak "Word" dosyası projenin içinde bulunmadığından ve android için tasarlandığı için ilk açılışta takılma hatta ve hatta projenin çalıştırıldığında donması
-mümkün.
-
 Sonuç: 
